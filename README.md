@@ -1,3 +1,4 @@
 ## Supporterz Code Challenge
-https://supporterz.jp/spevents/detail/spz_code_challenge_2017
-終わったので上げときます
+https://supporterz.jp/spevents/detail/spz_code_challenge_2017  
+終わったので上げときます  
+汚いコードはご了承ください
